@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListFragmentApp</string>
+    <string name="empty">empty</string>
+    <string name="icon">icon</string>
+</resources>
